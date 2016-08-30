@@ -39,5 +39,6 @@ class TicTacToe(object):
         if self.grids[row][col] == '':
             self.grids[row][col] = symbol
 
-        if is_game_a_win(row, col, symbol)
+        if is_game_a_win(row, col, symbol):
+            return player
         return 0
