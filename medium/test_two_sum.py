@@ -8,6 +8,7 @@ def test_case_1():
 	sol.add(5)
 	print sol.num_list
 	print sol.find(4)
+	print sol.find(7)
 
 if __name__ == "__main__":
 	test_case_1()
