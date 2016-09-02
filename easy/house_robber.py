@@ -39,6 +39,7 @@ def odd_and_even_algo(nums):
 
 
 def odd_even_array():
+    #NOTE: Not complete
     max_val = 0
     array1 = [50, 1]
     array2 = [1, 50]
